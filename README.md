@@ -16,7 +16,8 @@ Expected URL: https://aldschrisob.github.io/PORTFOLIOS/
 
 ## Updating the portfolio
 
-- Update a repository README or description on GitHub; the gallery picks up the change through the API.
+- Update a repository's GitHub description, language, topics or other exposed repository metadata; the gallery picks up those changes through the API.
+- README and code changes remain available when visitors open the linked repository, but README body text is not copied into the portfolio cards.
 - Create a new public repository; it appears automatically.
 - Edit `app.js` to change featured order or project categories.
 - Edit `index.html` and `styles.css` to change content and design.
